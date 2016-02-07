@@ -4,11 +4,18 @@
         <description><![CDATA[Studio Alouettes]]></description>
         <link>https://thegrid.ai/studioalouettes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 22:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 22:49:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studioalouettes/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Séjour]]></title>
+            <description><![CDATA[<article><h1>Séjour</h1><p>Le studio est loué non-meublé. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afd14bab2e2168ce3bad2e02c9b6ecc69dbfcb8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/studioalouettes/sejour/index.html</link>
+            <guid isPermaLink="false">86098324-93ac-467d-bd99-ec1b9b34dfa9</guid>
+            <pubDate>Sun, 07 Feb 2016 22:48:34 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Entrée]]></title>
-            <description><![CDATA[<article><h1>Entrée</h1><p>Entrée et placards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a560b0f80af350749d2eceae18e905204b3edf64.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Entrée</h1><p>Entrée et placards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5988dabd49b870fccfd894316ce2bb912a795b24.jpg"></article>]]></description>
             <link>https://thegrid.ai/studioalouettes/entree/index.html</link>
             <guid isPermaLink="false">35a4858d-67c5-4b4e-b6b5-88b595e35486</guid>
             <pubDate>Sun, 07 Feb 2016 22:47:09 GMT</pubDate>
@@ -21,13 +28,6 @@
             <pubDate>Sun, 07 Feb 2016 22:47:09 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Séjour]]></title>
-            <description><![CDATA[<article><h1>Séjour</h1><p>Le studio est loué non-meublé. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7afd14bab2e2168ce3bad2e02c9b6ecc69dbfcb8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/studioalouettes/sejour/index.html</link>
-            <guid isPermaLink="false">86098324-93ac-467d-bd99-ec1b9b34dfa9</guid>
-            <pubDate>Sun, 07 Feb 2016 22:47:09 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Salle de bain]]></title>
             <description><![CDATA[<article><h1>Salle de bain</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00a5e4d46e196f2ac3ce82a1677883486d8366ef.jpg"></article>]]></description>
             <link>https://thegrid.ai/studioalouettes/salle-de-bain/index.html</link>
@@ -36,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Vue extérieure]]></title>
-            <description><![CDATA[<article><h1>Vue extérieure</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca21e7aa799e929e2a91a9f74d18c2204ed94c52.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Vue extérieure</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ff05f01b0eaa8f39f0305365fdf706bc75c99212.jpg"></article>]]></description>
             <link>https://thegrid.ai/studioalouettes/vue-exterieure/index.html</link>
             <guid isPermaLink="false">7775b175-5aa5-4fba-82a5-00c662881a80</guid>
             <pubDate>Sun, 07 Feb 2016 22:47:09 GMT</pubDate>
