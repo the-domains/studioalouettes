@@ -6,22 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-07T22:47:09.318Z'
-dateModified: '2016-02-07T22:39:46.927Z'
+datePublished: '2016-02-07T23:09:59.952Z'
+dateModified: '2016-02-07T23:09:57.808Z'
 title: Salle de bain
+author: []
+sourcePath: _posts/2016-02-07-salle-de-bain.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-author: []
-sourcePath: _posts/2016-02-07-salle-de-bain.md
-published: true
 url: salle-de-bain/index.html
 _type: Article
 
 ---
+La salle de bain est petite mais bien organisée pour laisser le plus de place au séjour. Une douche avec portes coulissantes et eau chaude centrale permet d'apprécier ce moment de relaxation.
+
+Cet espace a été remis à neuf en 2011, il est donc récent et en très bon état.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/36ca3831-ab37-46ef-970f-629dfb0a7249.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/407e9050-463c-485b-a331-6e5f258d8595.JPG)
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bd23e60-8819-4c11-ab84-d73a68361450.JPG)
