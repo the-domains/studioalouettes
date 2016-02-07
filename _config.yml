@@ -1,6 +1,6 @@
 name: Studio Alouettes
 favicon: null
-layout_spectrum: 0.07768916338682175
+layout_spectrum: 0.25666
 typography_spectrum: 0.6931640799157321
 title: Studio Alouettes
 cta:
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.15280519658699632
-  lightness: 0.33532839408144355
-  saturation: 0.4755872006062418
-  rhythmicContrast: 0.47533112089149654
+  brandStrength: 0.125
+  lightness: 0.375
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
