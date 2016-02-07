@@ -4,8 +4,15 @@
         <description><![CDATA[Studio Alouettes]]></description>
         <link>https://thegrid.ai/studioalouettes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 07 Feb 2016 22:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 07 Feb 2016 22:48:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/studioalouettes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Entrée]]></title>
+            <description><![CDATA[<article><h1>Entrée</h1><p>Entrée et placards</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a560b0f80af350749d2eceae18e905204b3edf64.jpg"></article>]]></description>
+            <link>https://thegrid.ai/studioalouettes/entree/index.html</link>
+            <guid isPermaLink="false">35a4858d-67c5-4b4e-b6b5-88b595e35486</guid>
+            <pubDate>Sun, 07 Feb 2016 22:47:09 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Cuisine]]></title>
             <description><![CDATA[<article><h1>Cuisine</h1><p>L'electroménager n'est pas inclus</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c98b3b4d0b8a4add555d45574561cbc45226bdf2.jpg"></article>]]></description>
